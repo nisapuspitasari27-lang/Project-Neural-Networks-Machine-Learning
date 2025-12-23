@@ -1,11 +1,11 @@
-Project Neural Networks – Machine Learning
-Deskripsi Project
+**Project Neural Networks – Machine Learning
+Deskripsi Project**
 
 Project ini merupakan tugas kelompok Mata Kuliah Machine Learning (MKB24003) yang bertujuan untuk menerapkan Neural Networks dalam melakukan analisis dan prediksi menggunakan dataset publik.
 Proyek ini mencakup seluruh tahapan pengolahan data secara end-to-end, mulai dari pemahaman data, preprocessing, perancangan model Neural Networks, training, evaluasi model, hingga analisis hasil dalam konteks Sistem Informasi.
 Framework utama yang digunakan pada project ini adalah TensorFlow (Keras API) dengan bahasa pemrograman Python.
 
-Tujuan Project
+**Tujuan Project**
 
 -Memahami konsep dan penerapan Neural Networks
 
@@ -17,9 +17,9 @@ Tujuan Project
 
 -Menginterpretasikan hasil model untuk mendukung pengambilan keputusan Sistem Informasi
 
-Dataset yang Digunakan
+**Dataset yang Digunakan
 
-Project ini menggunakan 4 dataset publik, yaitu:
+Project ini menggunakan 4 dataset publik, yaitu:**
 
 Online Retail II (UCI)
 Data transaksi ritel online di Inggris
@@ -40,18 +40,35 @@ https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 Dataset disimpan dalam folder dataset/ atau diakses melalui link resmi.
 
 
-Metodologi
+**Metodologi**
 
-Tahapan pengerjaan project:
+-Tahapan pengerjaan project:
 
-Data Understanding
+-Data Understanding
 
-Data Preparation & Preprocessing
+-Data Preparation & Preprocessing
 
-Perancangan Arsitektur Neural Networks
+-Perancangan Arsitektur Neural Networks
 
-Training Model (rasio data 70:30)
+-Training Model (rasio data 70:30)
 
-Evaluasi Model
+-Evaluasi Model
 
-Analisis dan Interpretasi Sistem Informasi
+-Analisis dan Interpretasi Sistem Informasi
+
+**Teknologi yang Digunakan**
+
+*Python
+
+*TensorFlow / Keras
+
+*Google Colab / Jupyter Notebook
+
+*Pandas & NumPy
+
+*Scikit-learn
+
+*Matplotlib & Seaborn
+
+
+
