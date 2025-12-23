@@ -58,17 +58,30 @@ Dataset disimpan dalam folder dataset/ atau diakses melalui link resmi.
 
 **Teknologi yang Digunakan**
 
-*Python
+-Python
 
-*TensorFlow / Keras
+-TensorFlow / Keras
 
-*Google Colab / Jupyter Notebook
+-Google Colab / Jupyter Notebook
 
-*Pandas & NumPy
+-Pandas & NumPy
 
-*Scikit-learn
+-Scikit-learn
 
-*Matplotlib & Seaborn
+-Matplotlib & Seaborn
+
+
+**Cara Menjalankan Project**
+
+Clone repository ini
+
+-Install dependencies:
+
+-pip install -r requirements.txt
+
+-Buka folder notebooks/
+
+-Jalankan file .ipynb menggunakan Google Colab atau Jupyter Notebook
 
 
 
